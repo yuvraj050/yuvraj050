@@ -1,7 +1,7 @@
 ### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=yuvraj050&icon=4&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **Mobile and Backend Dev Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **ys09559@gmail.com**
 - 😄 Pronouns: He/Him
