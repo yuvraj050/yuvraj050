@@ -36,7 +36,9 @@ and exploring Cybersecurity related tools.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvraj050&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yuvraj050&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br> <br>
+![Snake animation](https://github.com/LunaticPython2003/LunaticPython2003/blob/output/github-contribution-grid-snake.svg)
 
 
