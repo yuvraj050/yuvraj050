@@ -38,7 +38,6 @@ and exploring Cybersecurity related tools.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br> <br>
-![Snake animation](https://github.com/LunaticPython2003/LunaticPython2003/blob/output/github-contribution-grid-snake.svg)
+
 
 
